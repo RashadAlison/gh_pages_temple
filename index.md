@@ -1,3 +1,7 @@
+{:refdef:style="text-align:center;"}
+![Image](zunlong02.jfif)
+{:refdef}
+
 # 基本信息
 **姓名**：萨拉曼
 **民族**：汉
